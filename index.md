@@ -2,11 +2,11 @@
 
 ---
 
-![Invitation Page 1](invitation-page1.png)
+![Invitation Page 1](chiarot_invitation_p1.jpeg)
 
 ---
 
-![Abstract](invitation-page2.png)
+![Abstract](chiarot_invitation_p2.jpeg)
 
 ---
 

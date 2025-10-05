@@ -12,6 +12,6 @@
 
 ### Quick Links
 
-* **Professional Profile:** [Cameron B. Chiarot](https://www.linkedin.com/in/cameronchiarot)
-* **Research Program:** [ADAPT](https://cbchiarot.github.io/)
+* **LinkedIn:** [Professional Profile](https://www.linkedin.com/in/cameronchiarot)
+* **GitHub:** [Research Program](https://cbchiarot.github.io/)
 

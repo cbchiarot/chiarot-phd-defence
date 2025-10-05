@@ -9,7 +9,7 @@
 
 ---
 
-### Quick Links
+### Professional & Research Links
 
 * **LinkedIn:** [Professional Profile](https://www.linkedin.com/in/cameronchiarot)
 * **GitHub:** [Research Program](https://cbchiarot.github.io/)
